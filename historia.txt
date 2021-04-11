@@ -1,9 +1,4 @@
 Esta es la historia de Nicolas Vargas
-
 Nicolas Vargas tiene 15 y nacio en paraguay
-
-<<<<<<< HEAD
 hoy hablaremos de su Vida y sus proyectos a futuro.
-=======
 hoy hablaremos de su Vida.
->>>>>>> tmp
