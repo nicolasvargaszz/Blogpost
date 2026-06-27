@@ -1,4 +1,2 @@
 # Blogpost
-Un super basico blogpost para empezar a utilizar git y github.
-un novato inicializando en github
-sigueme en twiter :) @nicoelingeniero
+aca subo algunos md que me genero alguna ia para poder estudiar o entender algun tema en especifico.
